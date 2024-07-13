@@ -18,8 +18,8 @@ In order to reset the viewer, you'll have to click "window->reload".
 # Getting Started
 
 * Install [Node.js](https://nodejs.org/en/)
-* Downlod the repository to a directory and unzip it
-* Open a command window (cmd) and run 'npm install'
+* Downlod or clone the repository to a directory (if downloaded unzip it)
+* Open a command window (cmd) in the folder where the repo is located and run 'npm install'
 * Execute PotreeDesktop.bat
-* Drag and Drop a las or laz file to convert and load it.
-* Drag and Drop a previously converted point cloud to load it. 
+* Drag and Drop a las or laz file to convert and load it
+* Drag and Drop a previously converted point cloud to load it
